@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.cabecalho{
+    width: 98,5%;
+    height: 130px;
+    background: #ffffff;
+    padding: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    
+
+}
+.logo{
+    width: 123px;
+    height: 122px;
+    margin: 10px;
+}
+.cadastro{
+    display: flex;
+    align-items: center;
+    padding-right: 50px;
+    font-size: 30px;
+    
+}
+ul{
+    gap: 100px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.comeco{
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    width: 100%;
+}
+.exp{
+    display: flex;
+}
