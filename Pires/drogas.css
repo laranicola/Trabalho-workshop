@@ -44,4 +44,61 @@ a{
 }
 .exp{
     display: flex;
+    text-align: center;
 }
+.cerebro{
+    width:700px;
+    height: 625px;
+}
+.text{
+    display: flex;
+    text-align: center;
+    
+}
+.susto{
+    width:700px;
+    height: 625px;
+}
+.liga{
+    width:700px;
+    height: 625px;
+}
+.pessoas{
+    width:700px;
+    height: 625px;
+}
+.rodape{
+    background-color: #f7cef1;
+}
+.redes{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+.insta{
+    width: 61px;
+    height: 56px;
+}
+.face{
+    width: 61px;
+    height: 56px;
+    margin-top: 7px;
+
+}
+.twit{
+    width: 61px;
+    height: 56px;
+    margin-top: 5px;
+
+}
+.tele{
+    width: 61px;
+    height: 56px;
+    margin-top: 5px;
+
+}
+    
+    
+    
+    
+    
